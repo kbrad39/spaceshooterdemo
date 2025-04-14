@@ -1,0 +1,32 @@
+{
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAICIAAAAAAAAgLwAAAAAAACIvAgAAAAAA8vcCAAAAACBydyIAAAAAIHdyJwAAAAAiIiAiAgAAACIAACACAAAgAgAAACIAACAAAAAAIAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemySprite"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAVAQAAAAAAAhCAggAAAAAiCKCCAAAAABoKGgIAAAAAGhmZggIAADwb5lpiAgAAB/xn2mICAAAHxGfaYgIAAAfEZ9piAgAAB8Rn2mICAAAHxGfaYgAAADwEZ9pCAAAAAD/ZmYIAAAAAICIiAgAAAAAAIiIAAAAAAAAgAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerSprite"
+    },
+    "J)(Ol_XOcLQ:njuDz1mo": {
+        "data": "hwQQABAAAAAAAICIiIgAAACAiIiIiIgAAIiIiIiIiAgAiIiIiIiICICId3d3d3eIgIh3d3d3d4iAiHeIeIeIiICId4h4h4iIgIh3iHiHiIiAiHd3d4eIiICIeHd3iIiIAIiIiIiIiAgAiIiIiIiICACAiIiIiIgAAACAiIiIAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "powerUp"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAUAAAAAAABQBQAAAAAAAFAFAAAAAAAAQAQAAAAAAABABAAAAAAAAEREAAAAAAAAJEIAAAAAAAAkQgAAAAAAACRCAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bulletSprite"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAFAFAABQBQAAUAUAAFAFAABQBQAAUAUAAEAEAABABAAAQAQAAEAEAABERAAAREQAACRCAAAkQgAAJEIAACRCAAAkQgAAJEIAACACAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "doublefireMode"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
